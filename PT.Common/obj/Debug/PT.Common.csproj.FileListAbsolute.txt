@@ -1,4 +1,0 @@
-D:\Projects\PT\PT.Common\bin\Debug\PT.Common.dll
-D:\Projects\PT\PT.Common\bin\Debug\PT.Common.pdb
-D:\Projects\PT\PT.Common\obj\Debug\PT.Common.dll
-D:\Projects\PT\PT.Common\obj\Debug\PT.Common.pdb
